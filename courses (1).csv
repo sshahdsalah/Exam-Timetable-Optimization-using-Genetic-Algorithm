@@ -1,0 +1,42 @@
+course_id,course_name,hours,students
+101,Introduction to Programming,2,144
+102,Object-Oriented Programming,2,139
+103,Data Structures,2,162
+104,Algorithms,4,141
+105,Web Development,3,142
+106,Mobile App Development,3,158
+107,Databases,2,121
+108,Software Engineering,2,148
+109,Operating Systems,2,168
+110,Programming Paradigms,4,134
+111,Advanced Programming Concepts,3,150
+112,Computer Networks,4,150
+113,Machine Learning,2,157
+114,Deep Learning,2,167
+115,Artificial Intelligence,2,123
+116,Computer Vision,4,150
+117,Natural Language Processing,4,162
+118,Parallel Computing,4,151
+119,Cloud Computing,2,144
+120,Cybersecurity,4,153
+121,Database Management Systems,3,141
+122,Computer Architecture,4,159
+123,Software Development Life Cycle,2,154
+124,Web Security,4,157
+125,Game Development,4,136
+126,Virtual Reality,2,153
+127,Data Science,2,136
+128,Big Data,4,167
+129,Embedded Systems,4,139
+130,Networking Protocols,4,161
+131,Java Programming,4,148
+132,Python Programming,4,169
+133,C++ Programming,3,155
+134,JavaScript Development,4,141
+135,React Development,2,117
+136,Mobile UI/UX Design,4,136
+137,Linux for Programmers,2,153
+138,Agile Software Development,2,151
+139,Database Programming,4,153
+140,DevOps,3,131
+141,Distributed Systems,2,136
